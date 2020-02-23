@@ -1,2 +1,2 @@
-# rxjs-practices
-RxJSの練習(公式サイトの写経)
+# RxJS practices
+RxJSの練習([公式サイト](https://rxjs-dev.firebaseapp.com/)の写経)
