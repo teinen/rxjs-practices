@@ -1,0 +1,14 @@
+{
+  "name": "rxjs-practices",
+  "version": "1.0.0",
+  "description": "RxJS practices with official site.",
+  "main": "index.ts",
+  "repository": "git@github.com:teinen/rxjs-practices.git",
+  "author": "teinen",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "rxjs": "^6.5.4",
+    "typescript": "^3.8.2"
+  }
+}
